@@ -1,5 +1,5 @@
 
-## Olá! Eu sou a Ingrid Silva 🖖
+## Hello! Eu sou a Ingrid Silva 🖖
 
 
 - 🔭 Hoje eu trabalho com Mobile
