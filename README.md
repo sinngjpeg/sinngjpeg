@@ -15,7 +15,7 @@
 
   ##
 
-<div style="display: inline_block" align="center"><br
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
