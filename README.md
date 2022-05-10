@@ -2,7 +2,7 @@
 ## Ingrid Silva 🖖
 
 
-- 🔭 Hoje eu trabalho com Mobile
+- 🔭 Trabalhando com Mobile
 - 🌱 Estudando Kotlin, Typescript
 - 😄 Pronomes: ela/dela
 
