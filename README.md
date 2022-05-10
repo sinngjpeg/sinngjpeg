@@ -1,9 +1,9 @@
 
-## Hello! Eu sou a Ingrid Silva 🖖
+## Ingrid Silva 🖖
 
 
 - 🔭 Hoje eu trabalho com Mobile
-- 🌱 Estudando Kotlin, Flutter
+- 🌱 Estudando Kotlin, Typescript
 - 😄 Pronomes: ela/dela
 
 ##
