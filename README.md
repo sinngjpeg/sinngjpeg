@@ -3,7 +3,7 @@
 
 
 - 🔭 Trabalhando com Mobile
-- 🌱 Estudando Kotlin, Typescript
+- 🌱 Estudando Kotlin
 - 😄 Pronomes: ela/dela
 
 ##
