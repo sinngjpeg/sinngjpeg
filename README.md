@@ -2,8 +2,8 @@
 ## Ingrid Silva 🖖
 
 
-- 🔭 Trabalhando com Mobile
-- 🌱 Estudando Kotlin
+- 🔭 Trabalhando com Mobile Android
+- 🌱 Estudando Kotlin, Java, UX
 - 😄 Pronomes: ela/dela
 
 ##
