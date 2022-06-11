@@ -4,7 +4,7 @@
 
 - 🔭 Trabalhando com Mobile Android
 - 🌱 Estudando Kotlin, Java, UX
-- 😄 Pronomes: ela/dela
+
 
 ##
 <div align="center">
