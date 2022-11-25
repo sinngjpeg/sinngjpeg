@@ -3,7 +3,7 @@
 
 
 - 🔭 Trabalhando com Mobile Android
-- 🌱 Estudando Kotlin, Java, UX
+- 🌱 Estudando Kotlin, UX
 
 
 ##
