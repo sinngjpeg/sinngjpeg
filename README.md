@@ -2,8 +2,8 @@
 ## Ingrid Silva 🖖
 
 
-- 🔭 Trabalhando com Mobile Android
-- 🌱 Estudando Kotlin, UX
+- 🔭  Mobile Android
+- 🌱 Estudando Flutter, Jetpack Compose.
 
 
 ##
