@@ -1,14 +1,9 @@
 
-## Ingrid Silva 🖖
-
-
-
-
+<div style="display: inline_block" align="center"><br>
+Ingrid Silva 🖖
+</div>
 
 ##
-
-
-  ##
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="sinng-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
