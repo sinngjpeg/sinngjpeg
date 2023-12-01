@@ -2,8 +2,7 @@
 ## Ingrid Silva 🖖
 
 
-- 🔭  Mobile Android
-- 🌱 Estudando Flutter, Jetpack Compose.
+
 
 
 ##
