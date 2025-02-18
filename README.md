@@ -50,5 +50,12 @@ Feel free to reach out and connect with me! Whether you want to talk about front
   <a href = "mailto:sinngtec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ingridsilva95/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
 
+<div style="display: inline_block" align="center"><br>
+  
+## 🌐 My Medium Articles
+I love sharing knowledge and documenting my journey as a developer. Check out my articles on Medium, where I write about front-end development, usability, accessibility, and more!
+
+🔗 [Visit my Medium profile](https://medium.com/@sinngtec)
+
 Let’s build something amazing together! 🌍✨
 </div>
