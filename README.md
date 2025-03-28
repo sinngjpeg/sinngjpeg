@@ -16,6 +16,7 @@ Right now, I'm diving into the world of **backend development** (yes, learning t
 - Studying English  
 
 🎓 Education:
+- **Graduate in Information of Technology** - Universidade Nove de Julho 🎓  
 - **Graduate in Systems Analysis and Development** - Universidade Anhanguera 🎓  
 - **Graduate in Software Engineering** - Universidade das Américas (ongoing) 🚀
 
