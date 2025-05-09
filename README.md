@@ -1,7 +1,7 @@
 ## Ingrid Silva 💫 
 
 
-Hi there! I'm a **front-end developer** with 3 years of experience, passionate about crafting amazing interfaces that make users happy. My curiosity drives me to constantly explore new technologies, and I have a special love for **usability** and **accessibility**, because I believe the web should be for everyone! 💻✨  
+Hi there! I'm a **developer** with 3 years of experience, passionate about crafting amazing interfaces that make users happy. My curiosity drives me to constantly explore new technologies, and I have a special love for **usability** and **accessibility**, because I believe the web should be for everyone! 💻✨  
 
 Right now, I'm diving into the world of **backend development** (yes, learning to talk to servers! 🖥️🔧) and improving my **English skills**, because there's always more to learn, right? 🚀  
 
