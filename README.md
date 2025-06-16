@@ -13,7 +13,8 @@ Right now, I'm diving into the world of **backend development** (yes, learning t
 
 🗣️ Languages:
 - Native Portuguese  
-- Studying English  
+- Studying English
+- Studying Espanish
 
 🎓 Education:
 - **Graduate in Information of Technology** - Universidade Nove de Julho 🎓  
