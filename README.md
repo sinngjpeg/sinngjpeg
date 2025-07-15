@@ -45,6 +45,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbuck
 
 <div style="display: inline_block" align="center"><br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinngjpeg&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 🌟 Contact Me 
 
 Feel free to reach out and connect with me! Whether you want to talk about front-end development, accessibility, or just share ideas, I’d love to hear from you. 🚀
