@@ -66,17 +66,6 @@ Currently diving deeper into **backend development**, **systems architecture**, 
 
 ---
 
-## 🚀 Projects in Production
-
-| Project                                               | Description                              | Type     |
-| ----------------------------------------------------- | ---------------------------------------- | -------- |
-| [Nova Yoga](https://novayoga.com.br/)                 | Institutional website for a yoga studio  | Client   |
-| [Becker Tecnologia](https://beckertecnologia.com.br/) | Institutional website for a tech company | Client   |
-| [FunSpy Game](https://funspy-game.vercel.app/)        | Interactive web game (in development)    | Personal |
-| [Portfolio](https://sinngjpeg.github.io/portifolio/)  | My personal retro-styled portfolio       | Personal |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
