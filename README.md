@@ -63,8 +63,18 @@ Currently diving deeper into **backend development**, **systems architecture**, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sinngjpeg&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinngjpeg&layout=compact&langs_count=8&theme=radical"/>
+  <a href="https://github.com/sinngjpeg">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sinngjpeg&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
+  <a href="https://github.com/sinngjpeg">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinngjpeg&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/sinngjpeg">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinngjpeg&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  </a>
 </div>
 
 ---
