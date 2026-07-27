@@ -1,66 +1,110 @@
-## Ingrid Silva 💫 
+# Ingrid Silva 💜
 
+<div align="center">
+  <img src="https://github.com/sinngjpeg/sinngjpeg/blob/main/assets/avatar.png" width="150" style="border-radius: 50%;" alt="Avatar de Ingrid Silva"/>
+</div>
 
-Hi there! I'm a **developer** with 3 years of experience, passionate about crafting amazing interfaces that make users happy. My curiosity drives me to constantly explore new technologies, and I have a special love for **usability** and **accessibility**, because I believe the web should be for everyone! 💻✨  
+<br>
 
-Right now, I'm diving into the world of **backend development** (yes, learning to talk to servers! 🖥️🔧) and improving my **English skills**, because there's always more to learn, right? 🚀  
+Hi there! I'm a **Full Stack Developer** with 6+ years of development experience and 14+ years in tech overall. I started in infrastructure and IT support, evolved into **Android native development** at companies like **C6 Bank** and **Accenture**, and since 2022 I work as a **full stack developer** building web and mobile solutions.
 
+I'm passionate about **usability**, **accessibility**, and **clean architecture** — because great software should work beautifully for everyone. 💻✨
 
-
-## 👩🏽‍💻 About Me
-
-🗺️ Location: São Paulo, Brazil.
-
-🗣️ Languages:
-- Native Portuguese  
-- Studying English
-- Studying Espanish
-
-🎓 Education:
-- **Graduate in Information of Technology** - Universidade Nove de Julho 🎓  
-- **Graduate in Systems Analysis and Development** - Universidade Anhanguera 🎓  
-- **Graduate in Software Engineering** - Universidade das Américas (ongoing) 🚀
+Currently diving deeper into **backend development**, **systems architecture**, and improving my **English skills**. Always learning, always building. 🚀
 
 ---
 
-> *"Code with purpose, design with empathy."*  
+## 👩🏽‍💻 About Me
 
-<div style="display: inline_block" align="center"><br>
-<img align="center" alt="sinng-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-<img align="center" alt="sinng-android-studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-<img align="center" alt="sinng-firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-<img align="center" alt="sinng-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="center" alt="sinng-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-<img align="center" alt="sinng-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img align="center" alt="sinng-kotlin" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg"/>
-<img align="center" alt="sinng-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img align="center" alt="sinng-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" />
-<img align="center" alt="sinng-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="center" alt="sinng-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="center" alt="sinng-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-<img align="center" alt="sinng-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" />
-<img align="center" alt="sinng-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+🗺️ **Location:** São Paulo, Brazil
+
+💼 **Current role:** Full Stack Developer
+
+🏢 **Previous companies:** C6 Bank · Accenture · Intelipost · LinkedBy · Grupo Sifra
+
+☁️ **Certified:** AWS Cloud Practitioner
+
+🗣️ **Languages:**
+
+- Portuguese (Native)
+- English (Intermediate)
+- Spanish (Basic)
+
+🎓 **Education:**
+
+- **Software Engineering** — Descomplica (2024-2028, ongoing) 🚀
+- **Postgraduate in Digital Forensics** — Anhanguera (2022-2023) 🔐
+- **Systems Analysis and Development** — Anhanguera (2020-2022) 🎓
+- **Information Technology** — Uninove (2013-2017) 🎓
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+<img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+<img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+<img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+<img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+<img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+<img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+<img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+<img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+<img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+<img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+<img align="center" alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
+<img align="center" alt="Jetpack Compose" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg">
+<img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+
 </div>
 
-<div style="display: inline_block" align="center"><br>
+---
 
+## 🚀 Projects in Production
 
+| Project                                               | Description                              | Type     |
+| ----------------------------------------------------- | ---------------------------------------- | -------- |
+| [Nova Yoga](https://novayoga.com.br/)                 | Institutional website for a yoga studio  | Client   |
+| [Becker Tecnologia](https://beckertecnologia.com.br/) | Institutional website for a tech company | Client   |
+| [FunSpy Game](https://funspy-game.vercel.app/)        | Interactive web game (in development)    | Personal |
+| [Portfolio](https://sinngjpeg.github.io/portifolio/)  | My personal retro-styled portfolio       | Personal |
 
+---
 
-## 🌟 Contact Me 
+## 📊 GitHub Stats
 
-Feel free to reach out and connect with me! Whether you want to talk about front-end development, accessibility, or just share ideas, I’d love to hear from you. 🚀
-<div align="center"> 
-  <a href = "mailto:sinngtec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ingridsilva95/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sinngjpeg&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinngjpeg&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
-<div style="display: inline_block" align="center"><br>
-  
-## 🌐 My Medium Articles
-I love sharing knowledge and documenting my journey as a developer. Check out my articles on Medium, where I write about front-end development, usability, accessibility, and more!
+---
+
+## 🌟 Contact Me
+
+Feel free to reach out! Whether you want to talk about development, accessibility, architecture, or just share ideas — I'd love to hear from you.
+
+<div align="center">
+  <a href="mailto:sinngtec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ingridsilva95/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@sinngtec" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5511946563001" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+</div>
+
+---
+
+## 📝 My Medium Articles
+
+I love sharing knowledge and documenting my journey as a developer. Check out my articles on Medium where I write about mobile development, architecture, accessibility, and more!
 
 🔗 [Visit my Medium profile](https://medium.com/@sinngtec)
 
-Let’s build something amazing together! 🌍✨
-</div>
+---
+
+> _"Code with purpose, design with empathy."_ 💜
