@@ -1,11 +1,5 @@
 # Ingrid Silva 💜
 
-<div align="center">
-  <img src="https://github.com/sinngjpeg/sinngjpeg/blob/main/assets/avatar.png" width="150" style="border-radius: 50%;" alt="Avatar de Ingrid Silva"/>
-</div>
-
-<br>
-
 Hi there! I'm a **Full Stack Developer** with 6+ years of development experience and 14+ years in tech overall. I started in infrastructure and IT support, evolved into **Android native development** at companies like **C6 Bank** and **Accenture**, and since 2022 I work as a **full stack developer** building web and mobile solutions.
 
 I'm passionate about **usability**, **accessibility**, and **clean architecture** — because great software should work beautifully for everyone. 💻✨
