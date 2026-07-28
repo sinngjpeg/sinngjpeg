@@ -63,18 +63,15 @@ Currently diving deeper into **backend development**, **systems architecture**, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/sinngjpeg">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sinngjpeg&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
-  </a>
-  <a href="https://github.com/sinngjpeg">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinngjpeg&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=86400"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=sinngjpeg&color=ff2d8a&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
 
+<br>
+
 <div align="center">
-  <a href="https://github.com/sinngjpeg">
-    <img src="https://streak-stats.demolab.com/?user=sinngjpeg&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  </a>
+  <a href="https://github.com/sinngjpeg?tab=repositories"><img src="https://img.shields.io/badge/Repos-40+-ff2d8a?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
+  <a href="https://github.com/sinngjpeg?tab=followers"><img src="https://img.shields.io/github/followers/sinngjpeg?style=for-the-badge&color=c77dff&logo=github&label=Followers" alt="Followers"/></a>
+  <a href="https://github.com/sinngjpeg"><img src="https://img.shields.io/github/stars/sinngjpeg?style=for-the-badge&color=f4c2c2&logo=github&label=Stars&affiliations=OWNER" alt="Stars"/></a>
 </div>
 
 ---
